@@ -1,0 +1,6 @@
+{
+  "env":{
+    "project" : "hello",
+    "token" : "your api token"
+  }
+}
